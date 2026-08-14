@@ -1,4 +1,4 @@
-# Pentester Command Reference
+# Cybersecurity Command Reference
 
 A personal quick-reference of commands, tools, and techniques for penetration testing, bug bounty hunting, and CTF work — organized to follow a standard ethical hacking course curriculum, from fundamentals through initial access, privilege escalation, and CTF creation.
 
